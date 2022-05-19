@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.7",
+  "appInfo": {
+    "name": "Appy Blog",
+    "description": "",
+    "version": "90d9n8k4",
+    "id": "cl3cve9v219037001kbtoly8qx6",
+    "url": "https://server.amplication.com/cl3cve9v219037001kbtoly8qx6",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl3cve9v219037001kbtoly8qx6",
+      "authProvider": "Jwt"
+    }
+  }
+}
